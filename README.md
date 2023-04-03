@@ -156,8 +156,6 @@ Do not learn learn JavaScript before, HTML and CSS. Do not learn JavaScript libr
 
 Backed(Server-side) development refers to the activities that happens behind the scene. Backend development consists of backend a programming language and a database. The backend interacts with frontend and the database using a backend programming language that could be (Node.js, Python, Ruby, PHP, etc). Look at the following figure to understand the interaction between client. A client send a HTTP request to the backend and the backend return a HTTP response to the client computer(The response could be an HTML page, txt, image, or any other form of data). HTTP(Hypertext Transfer Protocol) is a communication protocol that allow transmitting data between a client and a sever. It is designed for communication between web browsers(client) and web servers.
 
-![](images/request-response.png)
-
 ### Full-stack Web Development
 
 Full-stack is another buzzword that no one agrees on the definition. You can understand Full-stack web development as a sum of frontend, backend, testing, and including some other technologies.
@@ -256,7 +254,7 @@ The word HTML is an acronym. That is stands for Hypertext Markup Language. It is
 
 HTML code will be rendered by a browser and it give a human readable output. Look at the figure bellow to understand better how the HTML code convert to a website using a browser.
 
-![](images/html_code_output.png)
+
 
 ### HTML Element
 
@@ -426,10 +424,6 @@ This a simplistic DOM structure that contains _html_, _head_, _title_, _body_, _
   </body>
 </html>
 ```
-
-The DOM tree of the above HTML looks like the following diagram.
-
-![DOM tree](images/DOM-tree.png)
 
 ### Heading Elements
 
@@ -676,8 +670,6 @@ Instead of just throwing text in the footer tag let us add a _small_ HTML tag to
 ### Inline Style
 
 We can apply CSS to an HTML element using inline styling.
-Look at the figure below
-![HTML](./images/html-inline-style.png)
 
 We use the _style_ attribute to apply CSS to an HTML element.
 For instance, let us apply style to h1.
@@ -731,10 +723,6 @@ Colors can be described by name, hexadecimal, RGB(Red, Green, Blue), and HSL(Hue
 
 There about 1.67 million colors and it hard to describe them by name. There are about 140 colors that can be described by name and the rest of the colors can be described using hexadecimal, RGB, or HSL. One form of the color can be converted the other.
 Let see the different form of the color red(name), hexadecimal(#ff0000), RGB(rgb(255, 0, 0)) and HSL(hsl(0, 100%, 50%))
-
-If you followed all the steps by now you should get something like this.
-
-![Simple web page](./images/simple-web-page-1.png)
 
 Congratulations! You have completed Day 3 challenge
 
@@ -1039,13 +1027,6 @@ And feel its total dark sublime,
 Though this might take me a little time.</pre>
 
 <u>I am underlined</u>
-
-![formatting example](./images/formatting-example.png)
-
-## Exercises
-
-Create the following text using the formatting elements.
-![Text formatting](./images/text-formating.png)
 
 # Day 6
 
@@ -1512,13 +1493,3 @@ Output of the above code
   <dt>React</dt>
   <dd>React is a modern JavaScript library that was initial released on May 29, 2013.</dd>
 </dl>
-
-# Day 11
-
-## File Paths
-
-## Meta tags
-
-# Day 12
-
-## Under utilized HTML elements
