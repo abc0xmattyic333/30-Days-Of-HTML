@@ -244,10 +244,6 @@ As web developer, you should write code using a text or code editor. Therefore, 
 
 I will use Visual studio code and I will use it in this challenge too. I strongly suggest to use Visual Studio Code because it has lots of productivity extensions that makes super productive. Now, let's [download](https://code.visualstudio.com/) visual studio code.
 
-### How to use Visual Studio Code
-
-To know how to use visual studio code, watch the following [video](https://www.youtube.com/watch?v=vSyq1ENoovI)
-
 ## Introductin to HTML
 
 ### History of HTML
